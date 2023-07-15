@@ -32,7 +32,11 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
 }
+
+#newsitem_div{margin-bottom: 20%;}
+#description_para{line-clamp: 3;}

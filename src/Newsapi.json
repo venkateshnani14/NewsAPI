@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC Sport",
+            "title": "Premier League: Champions Man City 1-0 Chelsea - Alvarez gives champions lead",
+            "description": "Follow live text updates as West Ham host Leeds plus two more fixtures from the Premier League including Man City v Chelsea.",
+            "url": "http://www.bbc.co.uk/sport/live/football/65448263",
+            "urlToImage": "https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.23.3/images/bbc-sport-logo.png",
+            "publishedAt": "2023-05-21T15:22:22.0364922Z",
+            "content": "Leeds boss Sam Allardyce, speaking to Sky Sports: \"Obviously very disappointing. There were lots of things that suggested we had opportunities to get three points in the first half but unfortunately … [+1437 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Kurt Cobain: Guitar smashed by Nirvana frontman sells for nearly $600,000",
+            "description": "The black Stratocaster destroyed by Nirvana's frontman is signed by all three band members.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-65664330",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1622D/production/_129796609_gettyimages-1255060925.jpg",
+            "publishedAt": "2023-05-21T14:52:20.2064724Z",
+            "content": "A guitar smashed by Kurt Cobain, the late frontman of US rock band Nirvana, has sold at auction for nearly $600,000 (£480,000).\r\nThe busted black Fender Stratocaster had been expected to sell for a t… [+1672 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Bakhmut: City 'not occupied' by Russia, says defiant Zelensky",
+            "description": "Russia's Wagner group claims to have taken full control of the city after a bloody months-long battle.",
+            "url": "http://www.bbc.co.uk/news/world-europe-65662563",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4041/production/_129794461_d8f6a84ca3217140eeb81316862142919d8ca5440_85_6187_34822000x1125.jpg",
+            "publishedAt": "2023-05-21T14:52:18.6772765Z",
+            "content": "A defiant Volodymyr Zelensky has insisted Bakhmut \"is not occupied\" by Russia after a Moscow-backed mercenary group had claimed control.\r\nUkraine's president was speaking during a scene-stealing visi… [+4309 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "El Salvador stadium crush leaves at least twelve dead",
+            "description": "The disaster happened during a clash between two rival football sides in the capital San Salvador.",
+            "url": "http://www.bbc.co.uk/news/world-latin-america-65662194",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/768D/production/_129794303_gettyimages-1256659145-1.jpg",
+            "publishedAt": "2023-05-21T14:22:19.1614312Z",
+            "content": "At least twelve people have died after a crush at a football stadium in El Salvador's capital, San Salvador, officials have said. \r\nThe incident occurred during a match between local team Alianza and… [+2469 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Watch: Japan riot police pin G7 protesters to ground",
+            "description": "Violence broke out in Hiroshima as riot police clashed with far-left anti-G7 protesters.",
+            "url": "http://www.bbc.co.uk/news/world-asia-65663384",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/85C9/production/_129794243_p0fpl0ln.jpg",
+            "publishedAt": "2023-05-21T14:22:17.4743506Z",
+            "content": "Violence broke out on the sidelines of the G7 summit in Hiroshima as riot police wrestled people protesting the meeting of world leaders.\r\nPolice could be seen pinning protesters to the ground on Sun… [+465 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Jennifer Lawrence Bread and Roses documentary gives Afghan women a voice",
+            "description": "Oscar-winning actress tells BBC about working with documentary maker Sahra Mani on Bread and Roses.",
+            "url": "http://www.bbc.co.uk/news/world-65624203",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6822/production/_129785662_gettyimages-926150278.jpg",
+            "publishedAt": "2023-05-21T14:22:16.2246627Z",
+            "content": "\"You only oppress women,\" the young woman says to the Taliban fighter. \r\n\"I told you not to talk,\" he shouts back, \"I will kill you right here!\"\r\n\"Okay, kill me!\" she replies, raising her voice to ma… [+5495 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Watch what school in an empty shopping mall looks like",
+            "description": "How one US school found a clever solution when they had to quickly find a new home.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-65551793",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8D14/production/_129661163_kidsescalator2.jpg",
+            "publishedAt": "2023-05-21T14:22:14.7859307Z",
+            "content": "Many department stores are lying empty across the US as more of us shop online. One school found a unique use for one of them when they urgently needed a new home.\r\nFor more great solution stories li… [+112 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Sudan conflict: Army fights to keep Wadi Saeedna air base, residents say",
+            "description": "Paramilitaries are trying to cross the River Nile to reach the air strip, residents say.",
+            "url": "http://www.bbc.co.uk/news/world-africa-65662939",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ECFD/production/_129796606_4c62cb8e1e0866a981a3c4a4801527f9759f2bc40_380_5500_30941000x563.jpg",
+            "publishedAt": "2023-05-21T14:07:18.5312024Z",
+            "content": "Sudan's army is resisting an attempt by paramilitaries to advance towards its main air base near the capital Khartoum, residents have said. \r\nThe airfield is used by the military to carry out air str… [+3643 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "France attack: Kalashnikov assault on car kills three in Marseille",
+            "description": "The killings near a nightclub come amid a spike in drug violence in France's second-largest city.",
+            "url": "http://www.bbc.co.uk/news/world-europe-65664329",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10CFB/production/_129795886_gettyimages-1246711030.jpg",
+            "publishedAt": "2023-05-21T12:37:21.0052463Z",
+            "content": "Three men have been shot dead in a car in the southern French city of Marseille, which has seen a recent surge in drug violence.\r\nFive people were in the vehicle and had just left a nightclub when th… [+1358 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "British novelist Martin Amis dies aged 73",
+            "description": "The influential author of Money and London Fields was one of the most celebrated writers of his generation.",
+            "url": "http://www.bbc.co.uk/news/entertainment-arts-65660768",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/EDED/production/_129790906_gettyimages-458196906.jpg",
+            "publishedAt": "2023-05-20T20:22:21.6746607Z",
+            "content": "Martin Amis, one of the most celebrated British novelists of his generation, has died aged 73.\r\nHe died of oesophageal cancer at his Florida home, the New York Times said, quoting his wife.\r\nAmis is … [+2739 chars]"
+        }
+    ]
+}
