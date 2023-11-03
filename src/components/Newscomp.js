@@ -58,7 +58,7 @@ export default class Newscomp extends Component {
         return (
             <div>
                 <div className="card" style={{ width: "18rem", background:'#031425' , height: "14rem", margin: "0px 0px 10rem 0%" }}>
-                    <img style={{ width: '252px', height: '141px' }} className="card-img-top" src={this.props.urlToImage?this.props.urlToImage:'https://cdn.pixabay.com/photo/2016/11/21/11/25/blue-1844759_640.jpg'} />
+                    <img style={{ width: '287px', height: '141px' }} className="card-img-top" src={this.props.urlToImage?this.props.urlToImage:'https://cdn.pixabay.com/photo/2016/11/21/11/25/blue-1844759_640.jpg'} />
                     <div style={{background:'#031425'}} className="card-body">
                         <h5 className="card-title text-light">{this.props.title}...</h5>
                         <p id='description_para' className="card-text text-secondary">{this.props.description?this.props.description.slice(0, 90) : 'NO-DESCRIPTION'}...</p>

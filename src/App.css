@@ -40,3 +40,5 @@
 
 #newsitem_div{margin-bottom: 20%;}
 #description_para{line-clamp: 3;}
+#navbar_main{z-index: 1;}
+#news_main{z-index: 2;}
